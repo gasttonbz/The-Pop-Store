@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    margin: 10px;
+}
+
+.contenedor {
+    padding: 20px;
+
+    display: flex;
+    flex-flow: row nowrap;
+}
+.contenedor div {
+    width: 50%;
+}
